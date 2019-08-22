@@ -7,6 +7,8 @@
 Markymark, or `mm`, is a tool that you can use to publish, share, download
 [Markdown](https://en.wikipedia.org/wiki/Markdown) (.md) documents over [OCI Distribution](https://github.com/opencontainers/distribution-spec).
 
+Markymark is built using [ORAS](https://github.com/deislabs/oras).
+
 ## Getting started
 
 Requires a valid Go 1.12+ environment.
